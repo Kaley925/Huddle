@@ -1,0 +1,135 @@
+body{
+    background-color: hsl(257, 40%, 49%);
+}
+.background-picture{
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+.nav-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color:white;
+    font-size: 35pt;
+    position:absolute;
+    padding-left: 100px;
+    top:100px;
+    left:200px;
+}
+.nav-icon{
+    height: 45px;
+    width: 45px;
+   left:45px;
+   top:10px;
+    color:white;
+    position:absolute;
+    top:110px;
+    left:240px;
+
+}
+.text-first{
+    color:white;
+    position:absolute;
+    left:60%;
+    top:30%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.text-second{
+    color:white;
+    position:absolute;
+    left:60%;
+    top:37%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.text-third{
+    color:white;
+    position:absolute;
+    left:60%;
+    top:45%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.text-fourth{
+    color:white;
+    position:absolute;
+    left:60%;
+    top:49%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.text-fifth{
+    color:white;
+    position:absolute;
+    left:60%;
+    top:53%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.butt{
+   
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+    position:absolute;
+    left:60%;
+    top:60%;
+    height: 50px;
+    width: 200px;
+    background-color: hsl(300, 69%, 71%);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+.pics{
+    position:absolute;
+    width:1000px;
+    height: 500px;
+    background-repeat: no-repeat;
+    left:10%;
+    top: 25%;
+}
+.ig-logo{
+    height: 45px;
+    width: 45px;
+    color:white;
+    position:absolute;
+    bottom:50px;
+    right:100px;
+}
+.ig-logo :hover{
+    color:hsl(300, 69%, 71%);
+    cursor: pointer;
+}
+.twitter-logo{
+    height: 45px;
+    width: 45px;
+    color:white;
+    position:absolute;
+    bottom:50px;
+    right:200px;
+}
+.twitter-logo :hover{
+    color:hsl(300, 69%, 71%);
+    cursor: pointer;
+}
+.face-logo{
+    height: 45px;
+    width: 45px;
+    color:white;
+    position:absolute;
+    bottom:50px;
+    right:300px;
+}
+.face-logo:hover{
+    color:hsl(300, 69%, 71%);
+    cursor: pointer;
+}
